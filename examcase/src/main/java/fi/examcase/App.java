@@ -22,7 +22,7 @@ public class App
 	public void navigate() throws InterruptedException
 	{
 		driver.navigate().to("https://www.flipkart.com/");
-		
+		driver.navigate().to("https://www.amazon.com/");
 		
 	}
 	public void flipkart() throws InterruptedException {
